@@ -1,5 +1,6 @@
 xlrd
 pandas
+jupyter
 scikit-learn
 plotly
 matplotlib
