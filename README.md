@@ -2,7 +2,14 @@
 
 A machine learning tutorial for the NHS. 
 
-## Quick start
+## Quick Start
+
+### Binder
+
+That's the easiest, Binder allows you to work in the browser: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/klemag/nhs-ml-demo-2021/main?labpath=NHS%20ML%20Tutorial.ipynb)
+
+
+### Locally
 
 Create a virtual environment:
 
