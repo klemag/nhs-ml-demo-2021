@@ -1,0 +1,7 @@
+xlrd
+pandas
+scikit-learn
+plotly
+matplotlib
+pystan==2.19.1.1
+fbprophet
