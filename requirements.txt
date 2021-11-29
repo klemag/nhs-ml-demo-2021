@@ -1,9 +1,9 @@
 xlrd
 pandas
 jupyter
-numpy
 scikit-learn
 plotly
 matplotlib
+numpy==1.21.4
 pystan==2.19.1.1
 fbprophet
