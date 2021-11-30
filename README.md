@@ -1,4 +1,4 @@
-![img/cover.png]()
+![cover](https://raw.githubusercontent.com/klemag/nhs-ml-demo-2021/main/img/cover.png)
 
 # NHS - ML Demo 2021
 
