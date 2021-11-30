@@ -2,7 +2,9 @@
 
 # NHS - ML Demo 2021
 
-A machine learning tutorial for the NHS. 
+A Machine Learning tutorial for the NHS.
+
+[Cambridge Spark](https://www.cambridgespark.com)
 
 ## Quick Start
 
